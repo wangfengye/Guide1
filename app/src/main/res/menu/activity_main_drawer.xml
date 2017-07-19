@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_lft"
+            android:title="@string/xh_lft"/>
+        <item
+            android:id="@+id/nav_sdcx"
+            android:title="@string/xh_sdcx"/>
+        <item
+            android:id="@+id/nav_dq"
+            android:title="@string/xh_dqcx"/>
+        <item
+            android:id="@+id/nav_qyfh"
+            android:title="@string/xh_qyfh"/>
+    </group>
+
+</menu>

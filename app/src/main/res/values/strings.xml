@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Guide</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="event">活动:</string>
+    <string name="restaurant">餐厅:</string>
+    <string name="scenery">景点:</string>
+    <string name="xh_lft">雷锋夕照</string>
+    <string name="xh_sdcx">苏堤春晓</string>
+    <string name="xh_dqcx">断桥残雪</string>
+    <string name="xh_qyfh">曲园风荷</string>
+    <string name="event_lft">观雷锋夕照景</string>
+    <string name="event_sdcx">苏堤骑行</string>
+    <string name="event_dq">白蛇传</string>
+    <string name="event_qufh">赏荷</string>
+    <string name="re_lft">院子餐厅</string>
+    <string name="re_sdcx">白鹿餐厅</string>
+    <string name="re_dq">外婆家</string>
+    <string name="re_qufh">院子餐厅</string>
+
+</resources>
